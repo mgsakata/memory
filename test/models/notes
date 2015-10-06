@@ -1,0 +1,21 @@
+What is the most basic memory app?
+
+Step 1
+-user creates questions with answers
+  -keywords for categorization
+
+Step 2
+-user creates a course
+  -add questions to the course
+  -assign weights to the questions
+
+Step 3
+-user can chose a question list
+  -presented with questions
+    -questions are presented based on how recently it was answered, previous score, weight
+  -answer the question
+  -user scores their answer
+
+
+Tables
+
