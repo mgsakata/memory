@@ -1,0 +1,19 @@
+What is the most basic memory app?
+
+Step 1
+-user creates questions with answers
+
+Step 2
+-user is presented with a random question that has not been asked recently
+
+
+Tables
+
+questions
+-question
+-answer
+
+answers
+-question_id
+-answer
+-score
